@@ -1,0 +1,1 @@
+[![Screenshot of Matt's Stack Overflow profile](assets/images/social-media-stackoverflow.png)](http://stackoverflow.com/users/1535700/matt-d-rat)
