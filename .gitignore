@@ -1,4 +1,5 @@
 .sass-cache
+*.css
 *.css.map
 
 npm-debug.log
