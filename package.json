@@ -1,6 +1,6 @@
 {
-  "name": "you-the-brand",
-  "version": "1.0.0",
+  "name": "deck-debugging-your-online-profile",
+  "version": "1.0.1",
   "private": true,
   "devDependencies": {
     "grunt": "^0.4.5",
