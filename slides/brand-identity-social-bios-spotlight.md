@@ -1,0 +1,1 @@
+![Matt uses the same bio across social media to create brand consistency](assets/images/social-media-bios.jpg)

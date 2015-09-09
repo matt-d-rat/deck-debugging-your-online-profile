@@ -1,0 +1,1 @@
+[![Screenshot of Matt's Meetup profile](assets/images/social-media-meetup.png)](http://www.meetup.com/members/12906378)

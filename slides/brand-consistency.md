@@ -1,0 +1,5 @@
+## Consistency
+
+* Language
+* Tone
+* Imagery
