@@ -1,6 +1,6 @@
 # Debugging your online profile
 
-[http://matt-d-rat.github.io/deck-ga](http://matt-d-rat.github.io/deck-ga)
+[http://matt-d-rat.github.io/deck-debugging-your-online-profile](http://matt-d-rat.github.io/deck-debugging-your-online-profile)
 
 Presentation on how to promote yourself as a software engineer both online and offline, and what recruiters are looking for when searching for new hires.
 
