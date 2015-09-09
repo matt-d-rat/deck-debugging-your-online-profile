@@ -1,0 +1,1 @@
+[![Screenshot of lanyrd.com](assets/images/social-media-lanyrd.png)](http://www.lanyrd.com)

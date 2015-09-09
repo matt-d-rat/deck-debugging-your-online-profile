@@ -1,0 +1,167 @@
+@import "../../bower_components/reveal.js/css/theme/template/mixins";
+@import "../../bower_components/reveal.js/css/theme/template/settings";
+@import "../../bower_components/roboto-fontface/css/roboto-fontface";
+@import "colors";
+
+// Override theme settings ---------------------
+$backgroundColor: $color-white;
+$heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 20px 20px rgba(0,0,0,.15);
+$headingColor: $color-blue;
+$headingFont: 'Roboto-Bold', sans-serif;
+$headingTextShadow: none;
+$heading1TextShadow: none;
+$headingTextTransform: none;
+$mainFont: 'Roboto-Regular', sans-serif;
+$mainColor: $color-grey;
+$linkColor: $color-blue;
+$linkColorHover: $color-blue;
+
+// Background generator ------------------------
+@mixin bodyBackground() {}
+
+// Theme template ------------------------------
+@import "../../bower_components/reveal.js/css/theme/template/theme";
+
+.reveal {
+    @import "../../bower_components/components-font-awesome/scss/font-awesome";
+
+    section {
+        img,
+        img:hover {
+            background: transparent;
+            border: none;
+            box-shadow: none;
+        }
+    }
+
+    ol,
+    ul {
+        margin: 1em 0 1em 1em;
+
+        ul,
+        ol {
+            margin-top: 0.6em;
+            margin-bottom: 0.6em;
+        }
+    }
+
+    table {
+        border-collapse: collapse;
+
+        th,
+        td {
+            font-size: 0.7em;
+            padding: 0.4em 1em;
+        }
+
+        th {
+            border-bottom: 1px solid lighten( $color-grey, 24% );
+            color: $color-blue;
+        }
+
+        tr:nth-child(even) {
+            td {
+                background-color: lighten( $color-blue, 44% );    
+            }
+        }
+    }
+}
+
+.shout {
+    body {
+        background-color: $color-blue;
+    }
+    
+    .reveal {
+        color: $color-white;
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        a,
+        a:hover {
+            color: $color-white;
+        }
+
+        .controls {
+            div.navigate-left,
+            div.navigate-left.enabled,
+            div.navigate-left.enabled:hover {
+                border-right-color: $color-white;
+            }
+
+            div.navigate-right,
+            div.navigate-right.enabled,
+            div.navigate-right.enabled:hover {
+                border-left-color: $color-white;
+            }
+
+            div.navigate-up,
+            div.navigate-up.enabled,
+            div.navigate-up.enabled:hover {
+                border-bottom-color: $color-white;
+            }
+
+            div.navigate-down,
+            div.navigate-down.enable,
+            div.navigate-down.enabled:hover {
+                 border-top-color: $color-white;
+            }
+        }
+
+        .progress span {
+            background: $color-white;
+        }
+    }
+}
+
+.About {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px auto 0 auto;
+    min-height: 300px;
+}
+
+.About-item {
+    display: block;
+    flex: 1;
+    min-width: 240px;
+}
+
+.About-item-social {
+    color: $color-grey !important;
+    font-size: 80px !important;
+}
+
+.About-item-social--twitter {
+    &:hover {
+        color: #74a9ee !important;
+    }
+}
+
+.About-item-social--linkedin {
+    &:hover {
+        color: #4b83bc !important;
+    }
+}
+
+.About-item-social--github {
+    &:hover {
+        color: $color-black !important;
+    }
+}
+
+.About-item-social--stackoverflow {
+    &:hover {
+        color: #db781a !important;
+    }
+}
+
+img-pulse {
+    position: relative;
+    z-index: 0;
+}

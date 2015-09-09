@@ -1,0 +1,88 @@
+[
+    "index.md",
+    {
+        "filename": "about.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "about-matt.md",
+    "about-jay.md",
+    "topics.md",
+    "whiteboard.md",
+    "themes.md",
+    "branding.md",
+    {
+        "filename": "branding-you.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "brand-identity.md",
+    {
+        "filename": "promoting-your-brand.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    {
+        "filename": "portfolio.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "portfolio-matt.md",
+    {
+        "filename": "social-media.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "social-media-github.md",
+    "social-media-github-matt.md",
+    "social-media-twitter.md",
+    "social-media-twitter-matt.md",
+    "social-media-linkedin.md",
+    "social-media-linkedin-matt.md",
+    "social-media-stackoverflow.md",
+    "social-media-stackoverflow-matt.md",
+    "social-media-medium.md",
+    "social-media-medium-matt.md",
+    "brand-identity-matt.md",
+    "brand-identity-social-bios-spotlight.md",
+    {
+        "filename": "brand-consistency.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "brand-identity-social-profile-pics.md",
+    {
+        "filename": "target-audience.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "target-audience-breakdown.md",
+    {
+        "filename": "offline-presence.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
+    "social-media-meetup.md",
+    "social-media-meetup-matt.md",
+    "social-media-meetup-sydcss.md",
+    "conferences.md",
+    "conferences-lanyrd.md",
+    "recruiters-search.md",
+    "recruiters-looking-for.md",
+    "recruiter-interview.md",
+    "summary.md",
+    {
+        "filename": "q-and-a.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    }
+]
