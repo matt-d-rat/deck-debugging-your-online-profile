@@ -1,6 +1,6 @@
 {
   "name": "deck-debugging-your-online-profile",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "components-font-awesome": "~4.4.0",
     "img-pulse": "~0.1.0",
