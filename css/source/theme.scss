@@ -1,6 +1,10 @@
+// Set paths for fonts
+$roboto-font-path: '../bower_components/roboto-fontface/fonts';
+$fa-font-path: '../bower_components/components-font-awesome/fonts';
+
 @import "../../bower_components/reveal.js/css/theme/template/mixins";
 @import "../../bower_components/reveal.js/css/theme/template/settings";
-@import "../../bower_components/roboto-fontface/css/roboto-fontface";
+@import "../../bower_components/roboto-fontface/css/roboto-fontface.scss";
 @import "colors";
 
 // Override theme settings ---------------------
