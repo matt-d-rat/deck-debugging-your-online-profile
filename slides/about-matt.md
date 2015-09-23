@@ -43,5 +43,5 @@
 </div>
 
 * Software Engineer, Lab49
-* I <i class="fa fa-heart"></i> AngularJS, NodeJS, SCSS
-* Gamer, modder, livestreamer and skier
+* I <i class="fa fa-heart"></i> AngularJS, React, NodeJS, SCSS
+* Gamer, modder, YouTuber and skier
