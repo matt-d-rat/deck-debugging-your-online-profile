@@ -8,6 +8,7 @@
     },
     "about-matt.md",
     "about-jay.md",
+    "about-alistair.md",
     "topics.md",
     "whiteboard.md",
     "themes.md",
@@ -75,6 +76,12 @@
     "social-media-meetup-sydcss.md",
     "conferences.md",
     "conferences-lanyrd.md",
+    {
+        "filename": "recruiters.md",
+        "attr": {
+            "data-state": "shout"
+        }
+    },
     "recruiters-search.md",
     "recruiters-looking-for.md",
     "recruiter-interview.md",
